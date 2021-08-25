@@ -1,0 +1,17 @@
+{
+  "name": "auth_api",
+  "version": "1.0.0",
+  "description": "Handles OAuth2",
+  "main": "index.ts",
+  "dependencies": {
+    "http_api": "file:../HTTP_API"
+  },
+  "devDependencies": {
+    "@types/node": "^16.4.10"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
